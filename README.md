@@ -1,4 +1,14 @@
 # iOS-Boxing-Game
 Unity Based iOS game
 
-#Functionality
+# Languages
+
+# Dependencies
+
+# Functionality
+
+# Final Goal
+
+# Timeline
+
+
